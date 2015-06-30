@@ -40,4 +40,6 @@ gem 'thin'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
+gem 'pry', group: :development
+gem 'pry-rails', group: :development
+gem 'pry-nav', group: :development
